@@ -137,6 +137,7 @@
 }
 
 .recipes__iframe {
+  border: 0;
 }
 
 .recipes__video-caption {
