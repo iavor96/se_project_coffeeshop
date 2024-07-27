@@ -4,15 +4,15 @@
   background-size: cover;
   background-repeat: no-repeat;
   background-color: #0a2750;
+  background-position: center;
 }
 
 .recipes__title {
   max-width: 580px;
-  top: 100px;
-  left: 80px;
   font-style: normal;
   font-family: Inter, Arial, sans-serif;
   font-size: 44px;
+  font-weight: 500;
   line-height: 52px;
   color: #fff;
   margin-top: 100px;
@@ -41,6 +41,8 @@
 
 .recipes__iframe {
   border: 0;
+  width: 560px;
+  height: 315px;
 }
 
 .recipes__video-caption {

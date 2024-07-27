@@ -1,7 +1,5 @@
 .card {
   width: 540px;
-  gap: 100px;
-  margin-bottom: 100px;
 }
 
 .card__list {
@@ -19,7 +17,6 @@
   font-style: normal;
   font-weight: bold;
   font-size: 20px;
-  list-style: 30px;
 }
 
 .card__list-item {
