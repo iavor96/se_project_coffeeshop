@@ -38,7 +38,7 @@
 }
 
 .footer__list-item:last-child {
-  margin-bottom: 16px;
+  margin-bottom: 0px;
 }
 
 .footer__social-icon {
@@ -61,6 +61,7 @@
 
 .footer__social-link:hover {
   color: #c1c1c1;
+  transition: color 0.3s ease-in-out;
 }
 
 .footer__copyright {
