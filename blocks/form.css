@@ -42,7 +42,7 @@
   border-style: solid;
   font-size: inherit;
   line-height: inherit;
-  color: #838383;
+  border-color: #838383;
 }
 
 .form__button {
@@ -71,6 +71,4 @@
   font-weight: normal;
   font-size: 20px;
   line-height: 30px;
-  border-color: #838383;
-  gap: 12px;
 }
